@@ -71,8 +71,9 @@ Full Stack Developer, seeking a position to utilize my skills and abilities in g
 ## 🎎 Connect with me
 
 <p>
-<a href="https://www.linkedin.com/in/sridharrajaram12/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Huzaifa%20Mohammed-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:srilumia@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-srilumia@hotmail.com-blue?style=flat-square&logo=outlook"></a>
+<a href = "https://www.linkedin.com/in/sridharrajaram12" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.github.com/sridharrajaram" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+
 </p>
 
 <hr/>
