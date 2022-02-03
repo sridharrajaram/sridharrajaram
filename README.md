@@ -5,7 +5,6 @@
 <h3>Welcome to my Page!!!</h3>
 
 <br>
-## 🔎 Objective
 <br>
 
 **<h3 align="center">
