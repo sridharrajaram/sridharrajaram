@@ -1,5 +1,3 @@
-https://sridharrajaram.myfolio.netlify.com(https://sridharrajaram.myfolio.netlify.com)
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Viewers !!!</h1>
 <h2>I'm Sridhar Rajaram! Nice to see you here</h2>
 
@@ -63,6 +61,7 @@ Full Stack Developer, seeking a position to utilize my skills and abilities in g
 <hr/>
 <br/>
 ## Interests
+<br/>
 
 - ✈️ Travel
 - 📚 Numismatics
@@ -71,6 +70,7 @@ Full Stack Developer, seeking a position to utilize my skills and abilities in g
 <hr/>
 <br/>
 ## Connect with me
+<br/>
 <p>
 <a href = "www.linkedin.com/in/sridharrajaram12"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
