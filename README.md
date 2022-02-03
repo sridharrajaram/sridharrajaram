@@ -5,7 +5,6 @@
 <h3>Welcome to my Page!!!</h3>
 
 <br>
-<br>
 
 **<h3 align="center">
 Full Stack Developer, seeking a position to utilize my skills and abilities in globally competitive IT environment on challenging assignments that shall yield the twin benefits of the job satisfaction and a steady-paced professional growth. I always like to learn and upgrade myself at every opportunity and contribute maximum towards teamwork and goal setting for achieving targets.</h3>**
