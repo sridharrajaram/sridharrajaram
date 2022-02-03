@@ -69,8 +69,9 @@ Full Stack Developer, seeking a position to utilize my skills and abilities in g
 <br/>  
 <hr/>
 ## Connect with me:
-<p align="center">
+<p>
 <a href = "www.linkedin.com/in/sridharrajaram12"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.github.com/sridharrajaram"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>
 
 <hr/>
