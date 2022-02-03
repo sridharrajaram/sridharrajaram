@@ -61,14 +61,14 @@ Full Stack Developer, seeking a position to utilize my skills and abilities in g
 
 <br/>
 <hr/>
-## Interests:
+## Interests
 
 - ✈️ Travel
 - 📚 Numismatics
 
 <br/>  
 <hr/>
-## Connect with me:
+## Connect with me
 <p>
 <a href = "www.linkedin.com/in/sridharrajaram12"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
