@@ -42,6 +42,7 @@ Full Stack Developer, seeking a position to utilize my skills and abilities in g
 <hr/>
 
 ## 📊 My Github Stats
+
 <br/>
 <p align="center">
     <a href="https://github.com/sridharrajaram/github-readme-stats"><img alt="sridharrajaram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sridharrajaram&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
@@ -81,6 +82,7 @@ Full Stack Developer, seeking a position to utilize my skills and abilities in g
 <br/>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/sridharrajaram/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sridharrajaram">
 </a> &nbsp; &nbsp;
