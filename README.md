@@ -1,10 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Viewers !!!</h1>
-<h2>I'm Sridhar Rajaram! Nice to see you here</h2>
-
-<h3>Welcome to my Page!!!</h3>
-
-<br/>
-
+<h2>I'm Sridhar Rajaram! Nice to see you are scouting here</h2>
 <hr/>
 
 ## 📊 My Github Stats
@@ -23,9 +18,6 @@
 <br/>
 
 <hr/>
-
-
-<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -72,8 +64,6 @@
 
 <hr/>
 
-<br/>
-
 ## ❤ Views and Followers
 
 <a href="https://github.com/sridharrajaram/github-profile-views-counter">
@@ -83,4 +73,4 @@
 
 <br/>
 <hr/>
-Made by Sridhar Rajaram with 🤍 using JavaScript.
+created by Sridhar Rajaram using JavaScript.
